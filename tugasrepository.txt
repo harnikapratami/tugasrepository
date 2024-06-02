@@ -3,3 +3,4 @@ nama : gevira nur harnika pratami
 npm :2371020075
 kelas : 2c
 prodi : sistem informasi
+alamat : lampung utara
